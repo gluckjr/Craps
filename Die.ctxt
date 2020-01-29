@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Die
+comment0.text=\n\ Has\ a\ method\ which\ returns\ the\ randomly\ generated\ die\ value\n\n\ @author\ Robert\ Gluck\n\ @version\ 1-14-2020\n
+comment1.params=
+comment1.target=Die()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Die\n
+comment2.params=
+comment2.target=int\ roll()
+comment2.text=\n\ roll\ returns\ the\ sum\ of\ two\ randomly\ generated\ numbers\ from\ 1\ to\ 6\n\n\ @return\ \ \ \ the\ sum\ of\ two\ randomly\ generated\ numbers\ from\ 1\ to\ 6\n
+numComments=3
